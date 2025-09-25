@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+<YOUR_NAME>!;Software+Engineer+%7C+Cybersecurity+Specialist+%7C+Always+Learning...;&center=true&width=500&height=40&color=1ABC9C&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Yash Mishra!;Software+Engineer+%7C+Cybersecurity+Specialist+%7C+Always+Learning...;&center=true&width=500&height=40&color=1ABC9C&vCenter=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
