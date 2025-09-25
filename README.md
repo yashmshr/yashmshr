@@ -13,54 +13,52 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Computer Science Student, Software Engineer & Cybersecurity Specialist  
-- 💼 Experienced Software Development Engineer passionate about secure, scalable, and maintainable systems  
-- 🔒 Cybersecurity enthusiast with skills in Red Team, Blue Team operations, Penetration Testing, and DefSecOps  
-- 🌐 Exploring emerging technologies such as Python, Rust, Artificial Intelligence, and advanced network security  
-- 🛠️ Motivated by automation, ethical hacking, and building robust, real-world applications  
+Driven and versatile Software Engineer & Cybersecurity enthusiast. Adept at secure full-stack development, automation, and modern cloud/AI workflows. Gained project experience at a Florida-based tech company and through the rigorous JP Morgan Chase (Forage) Software Engineer simulation (Cybersecurity focus). Always exploring new tech, from blockchain and AI to advanced network defense and infrastructure automation.
 
 ---
 
-## 🏆 GitHub Stats
+## 💎 Core Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashmshr&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="160"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashmshr&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashmshr&theme=matrix&no-bg=true&margin-w=15" alt="Trophies" height="120"/>
-</p>
-
----
-
-## 💻 Tech Stack
-
-| Frontend           | Backend              | Database         | Tools & Platforms            |
-|--------------------|----------------------|------------------|-----------------------------|
-| React              | Node.js              | MongoDB          | Git, Docker, VS Code         |
-| Flutter            | Python (Flask/Django)| MySQL            | Postman, Figma              |
-| HTML5, CSS3, JavaScript | Java (Spring Core) |                  | Linux, AWS (Basics)          |
-|                    | Rust                 |                  |                             |
+**Programming:** Java, Python, C, JavaScript, TypeScript, PHP, HTML5, CSS3, Lua, Rust  
+**Web Development:** React, Node.js, Flask, Django, Spring, Angular, WordPress  
+**Mobile:** Flutter, Android ROM/Kernel Modding, Custom Recoveries  
+**Backend / DB:** MySQL, MongoDB, Firebase, SQLite, REST APIs  
+**Cybersecurity:** Red/Blue Teaming, Penetration Testing, DefSecOps, Network Security, Security Auditing, Incident Response, Risk Assessment, Blockchain & Crypto Security  
+**Cloud / DevOps:** Docker, AWS, Linux, NGINX, CI/CD Pipelines  
+**Automation & AI:** Generative AI (agents, tools, products), Python ML, AI-powered apps  
+**IT & Infrastructure:** SSL Certificates, Server Setup, Excel Automation, Team Coordination  
+**Other:** Project Management, Research, Presentation, Analytical Skills
 
 ---
 
-## 🚀 Projects & Highlights
+## 🚀 Project Portfolio
 
-- **Cybersecurity Simulations** - Developed Red Team and Blue Team exercises focusing on real-world threat modeling and detection.  
-- **Custom Android Development** - Expertise in custom ROM building, root detection bypass, and system image manipulation.  
-- **AI Fashion Stylist** - Designed and deployed a business-ready AI-powered fashion recommendation platform with rapid development cycles.  
-
-Explore more projects in my repositories illustrating skills across development, security, and AI initiatives.
+- **Secure File Transfer System:** Built an end-to-end encrypted, multi-platform file sharing webapp with granular access controls.
+- **Network Security Lab:** Crafted hands-on Red/Blue Team labs for protocol analysis and real-world attack simulations.
+- **Android Integrity Bypass Toolkit:** Developed novel root detection evasion and custom ROM patch tools.
+- **Decentralized Voting Platform:** Smart contract-based e-voting DApp with identity confirmation and fraud checks.
+- **Personal AI Fashion Stylist:** Launched an AI-driven site delivering personalized, data-backed outfit recommendations.
+- **SSL Automation Suite:** Automated SSL deployment for NGINX and WordPress on Ubuntu, boosting SME security.
+- **Realtime Chat System:** Deployed a low-latency, socket-based group chat supporting file/media sharing and moderation.
+- **Network Speed Optimizer:** Built tools to bypass ISP-level throttling in campus and shared WiFi environments.
+- **Generative AI Music Bot:** Created a Telegram bot that composes music using generative AI techniques (Python).
+- **Blockchain Asset Manager:** Multi-chain crypto asset tracker and portfolio visualizer with price alerts.
+- **Smart Attendance App:** Android/web app using QR+face recognition to automate attendance in classrooms/labs.
+- **Excel Analytics Engine:** Automated business/finance casework with macros and dashboarding (JP Morgan Chase, Forage).
+- **Bug Bounty Portal:** Platform simulating bug hunting and reporting workflows, customizable for learning/corporate use.
+- **DevOps Starter Kit:** Template repo with Docker, CI/CD, pre-configured security and testing ranges.
+- **Password Audit Tool:** Local browser tool scanning and scoring password safety, suggesting upgrades.
 
 ---
 
-## 📜 Certifications & Learning Path
+## 🏅 Certifications & Simulations
 
-- Gained valuable experience working remotely as a Software Development Engineer with a technology company based in Florida  
-- Continuous learner in AI, ML, and advanced Cybersecurity methodologies  
-- Completed multiple simulated job roles in Software Engineering and Cybersecurity domains  
+- **Software Engineer (Cybersecurity), JP Morgan Chase (Forage)**
+- **Excel Skills for Business, JP Morgan Chase (Forage)**
+- **Introduction to Cybersecurity, Security Auditing & Incident Management**
+- **Generative AI Mastermind**
+- **Python 3 Ultimate Guide**
+- **SSL Certificate Implementation, NGINX/PHP/WordPress**
 
 ---
 
@@ -83,7 +81,7 @@ Explore more projects in my repositories illustrating skills across development,
 
 ---
 
-> "Let's connect and build something amazing together!"
+> "Let's connect and build something impactful together!"
 
 ---
 
