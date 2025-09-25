@@ -6,18 +6,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-blue.svg?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Cybersecurity-Expert-green.svg?style=flat-square&logo=security" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=<your_github_username>" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashmshr" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Computer Science Student, Full Stack Developer and Cybersecurity enthusiast
-- 💼 Experienced SDE, deeply passionate about secure and scalable software
-- 🔒 Cybersecurity: Red Team, Blue Team, Pen-Testing, and DefSecOps
-- 🌐 Always exploring emerging tech, especially Python, Rust, AI, and network security
-- 🛠️ Love automating, hacking, and building robust systems
+- 🌱 Computer Science Student, Software Engineer & Cybersecurity Specialist  
+- 💼 Experienced Software Development Engineer passionate about secure, scalable, and maintainable systems  
+- 🔒 Cybersecurity enthusiast with skills in Red Team, Blue Team operations, Penetration Testing, and DefSecOps  
+- 🌐 Exploring emerging technologies such as Python, Rust, Artificial Intelligence, and advanced network security  
+- 🛠️ Motivated by automation, ethical hacking, and building robust, real-world applications  
 
 ---
 
@@ -27,75 +27,64 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yashmshr&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="160"/>
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=yashmshr&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="160"/>
-  </p>
+  <img src="https://streak-stats.demolab.com?user=yashmshr&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashmshr&theme=matrix&no-bg=true&margin-w=15" alt="Trophies" height="120"/>
 </p>
 
 ---
 
-## 💻 Tech Stack Overview
+## 💻 Tech Stack
 
-| Frontend | Backend | Database | Tools/Platforms |
-|---------------------|----------------------------|-----------------------------|----------------------------------|
-| React | Node.js | MongoDB | Git |
-| React Native | Express.js | MySQL | Docker |
-| Flutter | Spring Boot | PostgreSQL | VS Code |
-| HTML5 | Python | | Postman |
-| CSS3 | Java | | Figma |
-| JavaScript | Rust | | |
-| TypeScript | Lua | | |
+| Frontend           | Backend              | Database         | Tools & Platforms            |
+|--------------------|----------------------|------------------|-----------------------------|
+| React              | Node.js              | MongoDB          | Git, Docker, VS Code         |
+| Flutter            | Python (Flask/Django)| MySQL            | Postman, Figma              |
+| HTML5, CSS3, JavaScript | Java (Spring Core) |                  | Linux, AWS (Basics)          |
+|                    | Rust                 |                  |                             |
 
+---
 
-## 🚀 Tech Stack
+## 🚀 Projects & Highlights
+
+- **Cybersecurity Simulations** - Developed Red Team and Blue Team exercises focusing on real-world threat modeling and detection.  
+- **Custom Android Development** - Expertise in custom ROM building, root detection bypass, and system image manipulation.  
+- **AI Fashion Stylist** - Designed and deployed a business-ready AI-powered fashion recommendation platform with rapid development cycles.  
+
+Explore more projects in my repositories illustrating skills across development, security, and AI initiatives.
+
+---
+
+## 📜 Certifications & Learning Path
+
+- Gained valuable experience working remotely as a Software Development Engineer with a technology company based in Florida  
+- Continuous learner in AI, ML, and advanced Cybersecurity methodologies  
+- Completed multiple simulated job roles in Software Engineering and Cybersecurity domains  
+
+---
+
+## 📬 Connect with Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yashmshr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:work.yashmshr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/yashmshr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yashmshr" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashmshr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:<work.yashmshr@gmail.com>" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yashmshr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://twitter.com/yashmshr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+> "Let's connect and build something amazing together!"
 
 ---
 
-## 👨‍💻 Recent Projects
-
-Previous Account Suspended! 
-Too advanced & scary projects for GitHub. XD
-
----
-
-## 🙏 Thanks for Visiting!
-
-Let's connect and build something amazing together! 
+### Thank you for visiting my profile! 🌟
