@@ -4,65 +4,121 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-blue.svg?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Expert-green.svg?style=flat-square&logo=security" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Freelancer-Available-ff9800?style=flat-square&logo=upwork" />
+  <img src="https://img.shields.io/badge/Mobile%20Developer-4DB6AC?style=flat-square&logo=android" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-9C27B0?style=flat-square&logo=ai" />
+  <img src="https://img.shields.io/badge/Blockchain%20Dev-00bcd4?style=flat-square&logo=bitcoin" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Red?style=flat-square&logo=security" />
+  <img src="https://img.shields.io/badge/Cloud%20Skills-2196F3?style=flat-square&logo=aws" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yashmshr" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🏅 Tech Stack Overview
 
-Driven and versatile Software Engineer & Cybersecurity enthusiast. Adept at secure full-stack development, automation, and modern cloud/AI workflows. Gained project experience at a Florida-based tech company and through the rigorous JP Morgan Chase (Forage) Software Engineer simulation (Cybersecurity focus). Always exploring new tech, from blockchain and AI to advanced network defense and infrastructure automation.
-
----
-
-## 💎 Core Skills
-
-**Programming:** Java, Python, C, JavaScript, TypeScript, PHP, HTML5, CSS3, Lua, Rust  
-**Web Development:** React, Node.js, Flask, Django, Spring, Angular, WordPress  
-**Mobile:** Flutter, Android ROM/Kernel Modding, Custom Recoveries  
-**Backend / DB:** MySQL, MongoDB, Firebase, SQLite, REST APIs  
-**Cybersecurity:** Red/Blue Teaming, Penetration Testing, DefSecOps, Network Security, Security Auditing, Incident Response, Risk Assessment, Blockchain & Crypto Security  
-**Cloud / DevOps:** Docker, AWS, Linux, NGINX, CI/CD Pipelines  
-**Automation & AI:** Generative AI (agents, tools, products), Python ML, AI-powered apps  
-**IT & Infrastructure:** SSL Certificates, Server Setup, Excel Automation, Team Coordination  
-**Other:** Project Management, Research, Presentation, Analytical Skills
+| **Frontend**      | **Backend**                  | **Database**             | **Tools**                      |
+|-------------------|-----------------------------|--------------------------|-------------------------------|
+| React, React Native, Flutter, HTML5, CSS3, JavaScript, TypeScript | Node.js, Express.js, Spring Boot, Python, Java, Flask, Django | MongoDB, MySQL, PostgreSQL, Firebase, SQLite | Git, Docker, VS Code, Postman, Figma, NGINX, Linux, AWS (basics) |
 
 ---
 
-## 🚀 Project Portfolio
+## 🚀 Tech Stack Badges
 
-- **Secure File Transfer System:** Built an end-to-end encrypted, multi-platform file sharing webapp with granular access controls.
-- **Network Security Lab:** Crafted hands-on Red/Blue Team labs for protocol analysis and real-world attack simulations.
-- **Android Integrity Bypass Toolkit:** Developed novel root detection evasion and custom ROM patch tools.
-- **Decentralized Voting Platform:** Smart contract-based e-voting DApp with identity confirmation and fraud checks.
-- **Personal AI Fashion Stylist:** Launched an AI-driven site delivering personalized, data-backed outfit recommendations.
-- **SSL Automation Suite:** Automated SSL deployment for NGINX and WordPress on Ubuntu, boosting SME security.
-- **Realtime Chat System:** Deployed a low-latency, socket-based group chat supporting file/media sharing and moderation.
-- **Network Speed Optimizer:** Built tools to bypass ISP-level throttling in campus and shared WiFi environments.
-- **Generative AI Music Bot:** Created a Telegram bot that composes music using generative AI techniques (Python).
-- **Blockchain Asset Manager:** Multi-chain crypto asset tracker and portfolio visualizer with price alerts.
-- **Smart Attendance App:** Android/web app using QR+face recognition to automate attendance in classrooms/labs.
-- **Excel Analytics Engine:** Automated business/finance casework with macros and dashboarding (JP Morgan Chase, Forage).
-- **Bug Bounty Portal:** Platform simulating bug hunting and reporting workflows, customizable for learning/corporate use.
-- **DevOps Starter Kit:** Template repo with Docker, CI/CD, pre-configured security and testing ranges.
-- **Password Audit Tool:** Local browser tool scanning and scoring password safety, suggesting upgrades.
-
----
-
-## 🏅 Certifications & Simulations
-
-- **Software Engineer (Cybersecurity), JP Morgan Chase (Forage)**
-- **Excel Skills for Business, JP Morgan Chase (Forage)**
-- **Introduction to Cybersecurity, Security Auditing & Incident Management**
-- **Generative AI Mastermind**
-- **Python 3 Ultimate Guide**
-- **SSL Certificate Implementation, NGINX/PHP/WordPress**
+<p>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7E018?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-1675C2?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-FFD743?logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JAVA-378BDB?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DART-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-F56336?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1B73BA?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E84E31?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 📬 Connect with Me
+## 👤 About Me
+
+Full Stack Developer and Cybersecurity Specialist with hands-on skills in secure development, automation, and scalable solutions. Experienced through tech company projects and JP Morgan Chase (Forage) engineering and cybersecurity simulations. Obsessed with modern web/mobile tech, blockchain, cloud automation, and AI. Always leveling up and building impactful digital products.
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmshr&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashmshr&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashmshr&theme=matrix&no-bg=true&margin-w=15" alt="Trophies" height="120"/>
+</p>
+
+---
+
+## 💡 Projects & Highlights
+
+- Secure File Transfer System (encrypted, multi-platform transfer)
+- Network Security Lab (full Red/Blue Team simulation)
+- Android ROM & Integrity Bypass Toolkit (root detection, custom patching)
+- Decentralized Blockchain Voting Platform (smart contract, anti-fraud)
+- Personal AI Fashion Stylist (real-time AI-driven recommendations)
+- SSL Automation Suite (auto SSL for web stacks)
+- Realtime Chat System (socket/web/messaging integrated)
+- ISP Throttling Bypass Tool (campus network optimization)
+- Generative AI Music Bot (Telegram, Python)
+- Multi-chain Crypto Portfolio Manager
+- Face Recognition Attendance App (Web + Android)
+- Excel Analytics Engine (JP Morgan Forage)
+- Bug Bounty Learning Portal
+- DevOps Starter Kit (pre-built CI/CD/cloud security)
+- Password Audit & Safety Analyzer
+- Vulnerability Scanner WebApp (auto-detect flaws)
+- Dockerized Pipeline Generator (cloud devops tool)
+- Real-time Data Sync Framework (mobile/web)
+- Crypto Price Prediction Dashboard (AI/ML)
+- Responsive Portfolio CMS (admin, analytics)
+
+---
+
+## 🧩 Certifications & Experience
+
+- Software Engineer Simulation (JP Morgan Chase, Forage)
+- Cybersecurity Job Simulation (JP Morgan Chase, Forage)
+- Excel Skills for Business (JP Morgan Chase, Forage)
+- Introduction to Cybersecurity, Auditing & Incident Management
+- Generative AI Mastermind, Python 3 Ultimate Guide
+- SSL Certificate Implementation (NGINX, LAMP, WordPress)
+- Developed multiple real-world and simulated security, DevOps, and automation projects
+
+---
+
+## 🎯 Skills Overview
+
+**Languages:** Java, Python, C, JavaScript, TypeScript, PHP, Lua, Rust  
+**Web & Mobile:** React, React Native, Node.js, Angular, Flutter, HTML5, CSS3, Django, Spring Boot, WordPress  
+**Backend / Databases:** MySQL, PostgreSQL, MongoDB, Firebase, REST APIs, SQLite  
+**Cloud / DevOps:** Docker, AWS, Linux, NGINX, CI/CD, SSL Automation  
+**Cybersecurity:** Red/Blue Teaming, Pen Testing, DefSecOps, Auditing, Blockchain Security  
+**AI & Bots:** Generative AI, ML models (Python), Bot/Agent Development  
+**Other:** Project/Product Management, Excel Automation, Analytical & Presentation Skills
+
+---
+
+## 📬 Lets Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashmshr" target="_blank">
@@ -81,7 +137,7 @@ Driven and versatile Software Engineer & Cybersecurity enthusiast. Adept at secu
 
 ---
 
-> "Let's connect and build something impactful together!"
+> "Let's connect and build something truly innovative!"
 
 ---
 
