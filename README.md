@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yashmshr&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" height="160"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashmshr&theme=highcontrast&hide_border=true" alt="Github Streak" height="160"/>/>
+  <img src="https://streak-stats.demolab.com/?user=yashmshr&theme=highcontrast&hide_border=true" alt="Github Streak" height="160"/>
   </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashmshr&theme=matrix&no-bg=true&margin-w=15" alt="Trophies" height="120"/>
